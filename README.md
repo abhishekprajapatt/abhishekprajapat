@@ -11,6 +11,7 @@
 - **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
 - **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
+- **📊** Codeforces: [abhishekprajapatt](https://codeforces.com/profile/abhishekprajapatt)
 - **🐰** Focus with: [VisionexApp](https://visionex-app.vercel.app)
 - **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com)
 
