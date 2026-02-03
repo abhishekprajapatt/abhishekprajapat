@@ -6,12 +6,15 @@
 
 <!--👋🐰🦍🐯🎃-->
 
-- **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
+<!--
 - **⚡** Extreme High-Performance Computing & Systems Mastery.
 - **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
 - **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
+-->
+- **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
 - **📊** Codeforces: [abhishekprajapatt](https://codeforces.com/profile/abhishekprajapatt)
+- **🎭** LeetCode: [abhishekprajapatt](https://leetcode.com/u/abhishekprajapatt)
 - **🐰** Focus with: [VisionexApp](https://visionex-app.vercel.app)
 - **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com)
 
@@ -28,6 +31,8 @@
 <p align="center">
   <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
+
+<!--
 
 # 📈 Skills Progress
 *(Tracking my journey in AI, Systems, Quantum, Robotics & more—daily commits incoming soon!)*
