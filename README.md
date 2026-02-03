@@ -1,22 +1,19 @@
-
-<!--
-## Hey, I'm Abhishek **🐯**
-
-<!--👋🐰🦍🐯🎃-->
-<!--
-- **⚡** Extreme High-Performance Computing & Systems Mastery.
-- **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
-- **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
-- **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
-- **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **📊** [Codeforces](https://codeforces.com/profile/abhishekprajapatt) , **🎭** [LeetCode](https://leetcode.com/u/abhishekprajapatt) , **🐰** [VisionexApp](https://visionex-app.vercel.app)
-- **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com)
-
--->
-
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="abhishekprajapatt" /> 
 </p> 
+
+# Hey, I'm Abhishek **🐯**
+
+<!--👋🐰🦍🐯🎃-->
+- **🎓** Computer Science Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
+- **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
+- **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
+- **⚡** Extreme High-Performance Computing & Systems Mastery.
+- **🎃** Fun Fact: GPU heats my room. Winter hack.
+- **📊** [Codeforces](https://codeforces.com/profile/abhishekprajapatt) , **🎭** [LeetCode](https://leetcode.com/u/abhishekprajapatt) , **🐰** [VisionexApp](https://visionex-app.vercel.app)
+- **📫** Reach: 📧 [Email](mailto:prajapattabhishek@gmail.com) , **🦊** [Linkdin](https://www.linkedin.com/in/abhishekprajapatt)
+
+
 
 #### **🦝** Stacking wins:
 <p align="center">
@@ -31,7 +28,6 @@
   </picture>
 </div>
 
-<!--
 
 # 📈 Skills Progress
 *(Tracking my journey in AI, Systems, Quantum, Robotics & more—daily commits incoming soon!)*
