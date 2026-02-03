@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="abhishekprajapatt" /> 
 </p> 
 
-# Hey, I'm Abhishek **🐯**
+# Hey, I'm Abhishek **🐰**
 
 <!--👋🐰🦍🐯🎃-->
 - **🎓** Computer Science Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
@@ -10,8 +10,8 @@
 - **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
 - **⚡** Extreme High-Performance Computing & Systems Mastery.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **📊** [Codeforces](https://codeforces.com/profile/abhishekprajapatt) , **🎭** [LeetCode](https://leetcode.com/u/abhishekprajapatt) , **🐰** [VisionexApp](https://visionex-app.vercel.app)
-- **📫** Reach: 📧 [Email](mailto:prajapattabhishek@gmail.com) , **🦊** [Linkdin](https://www.linkedin.com/in/abhishekprajapatt)
+- **🦊** CP: **📊** [Codeforces](https://codeforces.com/profile/abhishekprajapatt) , **🎭** [LeetCode](https://leetcode.com/u/abhishekprajapatt)
+- **📫** Reach: **📧** [Email](mailto:prajapattabhishek@gmail.com) , **🐸** [Linkdin](https://www.linkedin.com/in/abhishekprajapatt)
 
 
 
