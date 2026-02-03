@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="abhishekprajapatt" /> 
 </p> 
 
-# Hey, I'm Abhishek **🐯**
+## Hey, I'm Abhishek **🐯**
 
 <!--👋🐰🦍🐯🎃-->
 
@@ -13,13 +13,15 @@
 -->
 - **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **📊** Codeforces: [abhishekprajapatt](https://codeforces.com/profile/abhishekprajapatt)
-- **🎭** LeetCode: [abhishekprajapatt](https://leetcode.com/u/abhishekprajapatt)
-- **🐰** Focus with: [VisionexApp](https://visionex-app.vercel.app)
+- **📊** [Codeforces](https://codeforces.com/profile/abhishekprajapatt) , **🎭** [LeetCode](https://leetcode.com/u/abhishekprajapatt) , **🐰** [VisionexApp](https://visionex-app.vercel.app)
 - **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com)
 
 
-#### **🦍** Stacking wins:
+#### **🦝** Stacking wins:
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake-dark.svg" />
@@ -27,10 +29,6 @@
     <img alt="github-snake" src="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
   </picture>
 </div>
-
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
 
 <!--
 
