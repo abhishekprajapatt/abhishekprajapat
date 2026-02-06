@@ -28,6 +28,12 @@
   </picture>
 </div>
 
+<p align="center">
+  <a href="https://leetcode.com/abhishekprajapatt">
+    <img height="322" src="https://leetcard.jacoblin.cool/abhishekprajapatt?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/abhishekprajapatt/b010f03ce26bb80eb2b596106130cf86/raw/14d760243e7efbdfbdec6d89bbd4a0247793f5cb/leetcode_stats_card.css" />
+  </a>
+  
+</p>
 
 # 📈 Skills Progress
 *(Tracking my journey in AI, Systems, Quantum, Robotics & more—daily commits incoming soon!)*
