@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="abhishekprajapatt" /> 
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="abhishekprajapatt" />   
 </p> 
 
 # Hey, I'm Abhishek **🐰**
@@ -9,6 +9,7 @@
 - **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
 - **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
 - **⚡** Extreme High-Performance Computing & Systems Mastery.
+- **🦭** Top Rank: [![committers.top badge](https://user-badge.committers.top/india/abhishekprajapatt.svg)](https://user-badge.committers.top/india/abhishekprajapatt)
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
 - **🦊** CP: **📊** [Codeforces](https://codeforces.com/profile/abhishekprajapatt) , **🎭** [LeetCode](https://leetcode.com/u/abhishekprajapatt)
 - **📫** Reach: **📧** [Email](mailto:prajapattabhishek@gmail.com) , **🐸** [Linkdin](https://www.linkedin.com/in/abhishekprajapatt)
